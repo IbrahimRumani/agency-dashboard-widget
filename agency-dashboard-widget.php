@@ -36,7 +36,7 @@ function agency_dashboard_widget_content() {
 			<a href="mailto:support@agency.com">support@agency.com</a><br>
 
 			💬 <strong>WhatsApp:</strong>
-			<a href="https://wa.me/919999999999" target="_blank">
+			<a href="https://wa.me/919999998888" target="_blank">
 				+91 999 999 9999
 			</a>
 		</p>
