@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Agency Dashboard Widget
  * Description: Displays agency support information on the WordPress dashboard.
- * Version: 1.1
+ * Version: 1.2
  * Author: Your Agency
  */
 
@@ -37,7 +37,7 @@ function agency_dashboard_widget_content() {
 
 			💬 <strong>WhatsApp:</strong>
 			<a href="https://wa.me/919999998899" target="_blank">
-				+91 999 999 9999
+				+91 999 999 9988
 			</a>
 		</p>
 
