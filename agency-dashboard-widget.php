@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Agency Dashboard Widget
  * Description: Displays agency support information on the WordPress dashboard.
- * Version: 1.2
+ * Version: 1.3
  * Author: Your Agency
  */
 
@@ -36,8 +36,8 @@ function agency_dashboard_widget_content() {
 			<a href="mailto:support@agency.com">support@agency.com</a><br>
 
 			💬 <strong>WhatsApp:</strong>
-			<a href="https://wa.me/919999998899" target="_blank">
-				+91 999 999 9988
+			<a href="https://wa.me/919999998888" target="_blank">
+				+91 999 999 8888
 			</a>
 		</p>
 
