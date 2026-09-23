@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Agency Dashboard Widget
  * Description: Displays agency support information on the WordPress dashboard.
- * Version: 1.3
+ * Version: 1.4
  * Author: Your Agency
  */
 
